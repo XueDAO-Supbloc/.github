@@ -9,7 +9,7 @@ This is a project for [XueDAO connect hackthon](https://www.moledao.io/#/event/3
 **pitch slide link**: https://tome.app/chengs-space-d00/supbloc-pitch-clxzilrdr03k2135twptt2vs4  
 **demo video link**: blank   
 **iOS app repo**: [supbloc-ios](https://github.com/XueDAO-Supbloc/Supbloc-iOS)  
-**API server repo**: [supbloc-server](https://github.com/XueDAO-Supbloc/supbloc-server)
+**API server repo** (Demo link inside): [supbloc-server](https://github.com/XueDAO-Supbloc/supbloc-server)
 
 <br>
 
