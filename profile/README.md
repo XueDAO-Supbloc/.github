@@ -13,5 +13,5 @@ This is a project for [XueDAO connect hackthon](https://www.moledao.io/#/event/3
 
 <br>
 
-## System & Tech Stack
+## System
 <img width="ˊ00" src="https://github.com/XueDAO-Supbloc/.github/blob/e728d1497880ffeb4111a5f57dc75e6747574443/profile/System.png">
