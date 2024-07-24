@@ -1,6 +1,6 @@
 <p align="center">
   <img width="200" src="https://github.com/XueDAO-Supbloc/.github/blob/e728d1497880ffeb4111a5f57dc75e6747574443/profile/Logo_text_vt.png">
-  <br>
+  <br><br>
   <strong>🎉 Second Prize of XueDAO connect hackathon, BGA & Aptos Track 🎉</strong>  
 </p>
 
